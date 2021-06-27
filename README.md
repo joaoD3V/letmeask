@@ -18,29 +18,10 @@ Sistema Web para facilitar o envio de perguntas de seguidores para os produtores
 ------------
 
 ### Observação
-
+Não é possível instalar ou rodar o sistema localmente devido a algumas limitações que impus;
 Implementações futuras:
 - Dark Mode
 - Responsividade
 - PWA
 
 ------------
-
-### Instalação e Execução
-
-**Instalação das dependências**
-```
-yarn
-```
-
-**Execução em ambiente de desenvolvimento**
-
-```
-yarn start
-```
-
-**Execução em ambiente de produção**
-
-```
-yarn build
-```
