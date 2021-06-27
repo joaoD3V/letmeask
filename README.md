@@ -18,7 +18,8 @@ Sistema Web para facilitar o envio de perguntas de seguidores para os produtores
 ------------
 
 ### Observação
-Não é possível instalar ou rodar o sistema localmente devido a algumas limitações que impus;
+Não é possível instalar ou rodar o sistema localmente devido a algumas limitações que impus.
+
 Implementações futuras:
 - Dark Mode
 - Responsividade
